@@ -45,6 +45,8 @@ import android.widget.EditText;
 public class NoteEditor extends Activity {
     private static final String TAG = "Notes";
 
+    
+    
     /**
      * Standard projection for the interesting columns of a normal note.
      */
